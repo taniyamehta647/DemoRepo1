@@ -1,4 +1,4 @@
 # DemoRepo1
 For demo purpose
 <br>
-Author - Tanya
+Author - Tanya Mehta
